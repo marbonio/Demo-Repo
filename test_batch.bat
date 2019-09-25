@@ -1,5 +1,7 @@
 echo off
 
+REM ### This is a new comment done on new-feature
+
 REM ##########################################################################
 REM Program Name: <job name>_post.bat
 REM Description:
