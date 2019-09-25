@@ -1,5 +1,6 @@
 echo off
 
+REM ### This is a comment done only on new-feature not merged to development
 REM ### This is a new comment done on new-feature
 
 REM ##########################################################################
